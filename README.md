@@ -1,1 +1,1 @@
-This is small javascript game
+#This is small javascript game
